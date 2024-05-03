@@ -1,0 +1,3 @@
+dhruv: password1: dhruv@example.com
+hari: password2: hari@example.com
+piyush: password3: piyush@example.com
